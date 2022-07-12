@@ -107,6 +107,14 @@ h3 {
   border: none;
   background: none;
 }
+.goal .update {
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
 
 .form,
 .content {
